@@ -19,24 +19,24 @@ Mario
 Fiorenza
 ---------------------------------------------------------------
 
-1 Introduzione alla Cosmologia
+- Introduzione alla Cosmologia
   - eq. Friedmann con soluzioni
   - eq. fluido
   - legge Hubble
   - Redshift
   - eq. stato
   
-2 Parametri Universo
-  - parametro di densita
+- Parametri dell'Universo
+  - parametro di densità
   - materia oscura
   - energia oscura
   
-3 Evoluzione Universo
-  - eta dell'universo
+- Evoluzione dell'Universo
+  - età dell'universo
   - CMB
   - Big Bang caldo
   - BBN
   
-4 Introduzione Astrofisica
+- Introduzione all'Astrofisica
   - candele standard
   - lumnosita e magnitudine
