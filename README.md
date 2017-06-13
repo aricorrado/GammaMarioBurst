@@ -1,11 +1,12 @@
 # GammaMarioBurst
 Oh Be A Fine Guy/Girl: Kiss Me!
 
----------------------------------------------------------------
 PROGRAMMA
+---------------------------------------------------------------
+---------------------------------------------------------------
 
 Mario
-
+--------------------------------------------------------------
 - Telescopi + Strumentazione IR + Interferometria  + radiotelescopi   ---> slide II, III, VI
 - Evoluzione Stellare + Misura distanze                               ---> slide IV, V
 - Rivelazione Materia Oscura                                          ---> slide VII
@@ -16,6 +17,7 @@ Mario
 
 
 Fiorenza
+---------------------------------------------------------------
 
 1 Introduzione alla Cosmologia
   - eq. Friedmann con soluzioni
