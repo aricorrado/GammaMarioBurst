@@ -1,0 +1,31 @@
+Elenco degli esperimenti
+---------------------------------------------------
+
+- MINI-EUSO [anno prossimo]:
+  - Seeing
+- JEM-EUSO [futuro]:
+  - Telescopio spaziale a infrarossi
+- HST (Hubble Space Telescope):
+  - Telescopio spaziale
+- XMM:
+  - Raggi X
+- VISTA:
+  - Telescopio terrestre a infrarossi
+- SOFIA:
+- Herschel:
+  - Telescopio spaziale
+- James Webb:
+  - Telescopio spaziale
+- VLT:
+  - Telescopio array
+- LBT:
+  - Telescopio bioculare
+- COBE-FIRAS:
+  - Telescopio spaziale a infrarossi 
+- PLANCK:
+  - Telescopio spaziale
+  - Radiazione cosmica di fondo
+- Arecibo:
+  - Radiotelescopio terrestre
+- SKA (Square Kilometer Array) [futuro]:
+  - Telescopio terrestre ad array
