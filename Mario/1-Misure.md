@@ -1,23 +1,23 @@
 Telescopi - Slide II
 --------------------------------------------------------------------
 
-1. Sistemi ottici
+- Sistemi ottici
   - Schemino
   - Teoria delle lenti
-2. Parametri ottici:
+- Parametri ottici:
   - Piano focale
   - Equazione delle lenti
   - Ingrandimento
   - Throughput e accettanza
   - Campo di vista
   - Potere risolutivo
-3. Aberrazioni ottiche:
+- Aberrazioni ottiche:
   - Cromatica
   - Sferica
   - Coma
   - Astigmatismo
   - Seeing
-4. Tipi di telescopio:
+- Tipi di telescopio:
   - Diottrico
   - Afocale (p 40)
   - Catottrici (p 41)
@@ -27,31 +27,31 @@ Telescopi - Slide II
   
 Infrarossi - Slide III
 --------------------------------------------------------------------
-1. Legge di Planck, radianza e legge di Wien (p 3-4)
-2. Effetti atmosferici (p 7-9)
-3. Strumenti:
+- Legge di Planck, radianza e legge di Wien (p 3-4)
+- Effetti atmosferici (p 7-9)
+- Strumenti:
   - Lenti (p 10)
   - Detector (p 13)
   - Calibrazione (p 20)
-4. Telescopi sulla Terra:
-5. Telescopi nello spazio:
+- Telescopi sulla Terra:
+- Telescopi nello spazio:
   - JEM-EUSO
   
 Interferometria, Spettrometria, CMB e radiotelescopi - Slide VI
 --------------------------------------------------------------------
-1. Spettrometria
-2. Interferometria
+- Spettrometria
+- Interferometria
   - Fabry-Perot
   - Michelson e Morley
   - Trasformata di Fourier
   - Martin-Puplett
-3. FIRAS e COBE
-4. CMB
+- FIRAS e COBE
+- CMB
   - Caratteristiche
   - Detector:
     - Bolometri
     - Planck
-5. Radiotelescopi
+- Radiotelescopi
   - Antenne
   - Esperimenti:
     - Arecibo
